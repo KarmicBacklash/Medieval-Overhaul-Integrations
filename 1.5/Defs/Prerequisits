@@ -2,7 +2,7 @@
  <xpath>/Defs/ResearchProjectDef[defName="Devilstrand"]</xpath>
   <value>
    <prerequisites>
-    <li>VFET_Culture</li>
+    <li>DankPyon_BasicAgriculture</li>
    </prerequisites>
   </value>
  </Operation>
