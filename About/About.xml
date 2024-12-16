@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<packageId>karma.medievaloverhaulintegrations</packageId>
-	<name>Mod Template</name>
+	<name>Medieval Overhaul Integrations & Fixes</name>
 	<author>Karmasviel</author>
 	<supportedVersions>
 		<li>1.5</li>
